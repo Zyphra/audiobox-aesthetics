@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+Zyphra_Aes/jsonl_files/
+
 # C extensions
 *.so
 
